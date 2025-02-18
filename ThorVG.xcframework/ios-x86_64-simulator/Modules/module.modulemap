@@ -1,0 +1,5 @@
+framework module ThorVG {
+    umbrella header "ThorVG.h"
+    export *
+    module * { export * }
+}
